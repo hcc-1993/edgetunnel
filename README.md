@@ -25,5 +25,11 @@ cdn.anycast.eu.org
 使用优选工具生成
 ```javascript
 https://github.com/hcc-1993/edgetunnel/blob/main/yx-ip.zip
+或者
+https://github.com/hcc-1993/cloud-flare-spee-test
 ```
 
+###  3. 服务商优选IP
+```javascript
+https://stock.hostmonit.com/CloudFlareYes
+```
