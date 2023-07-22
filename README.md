@@ -23,3 +23,7 @@ cdn.anycast.eu.org
 ###  2. 优选IP
 
 使用优选工具生成
+```javascript
+https://github.com/hcc-1993/edgetunnel/blob/main/yx-ip.zip
+```
+
